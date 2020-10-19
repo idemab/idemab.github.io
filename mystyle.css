@@ -17,7 +17,7 @@ ul.nav li a{
   padding:10px;
 }
 a:link, a:visited {
-  background-color: 33FFAD;
+  background-color: #33FFAD;
   color: white;
   padding: 14px 25px;
   text-align: center;
@@ -45,4 +45,4 @@ th {
   color: white;
 }
 
-tr:hover {background-color:33FFAD;}
+tr:hover {background-color:#33FFAD;}
