@@ -7,6 +7,10 @@ p.fancy{
   color:#666;
   font-style:oblique;
 }
+p.fancy::first-letter {
+  color: #209F6C;
+  font-size: xx-large;
+}
 ul.nav li{
   display:inline;
   padding:10px;
