@@ -17,7 +17,7 @@ ul.nav li a{
   padding:10px;
 }
 a:link, a:visited {
-  background-color: #33FFAD;
+  background-color: white;
   color: #E5FFF5;
   padding: 14px 25px;
   text-align: center;
@@ -41,7 +41,7 @@ th, td {
 tr:nth-child(even){background-color: #f2f2f2}
 
 th {
-  background-color: #4CAF50;
+  background-color: #209F6C;
   color: white;
 }
 
