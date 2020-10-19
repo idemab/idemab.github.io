@@ -30,11 +30,11 @@ a:hover, a:active {
 }
 table {
   border-collapse: collapse;
-  width: 100%;
+  width: 75%;
 }
 
 th, td {
-  text-align: left;
+  text-align: center;
   padding: 8px;
 }
 
@@ -43,6 +43,7 @@ tr:nth-child(even){background-color: #f2f2f2}
 th {
   background-color: #209F6C;
   color: white;
+  height: 40px;
 }
 
 tr:hover {background-color: #33FFAD;}
