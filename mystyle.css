@@ -77,3 +77,8 @@ th {
 }
 
 tr:hover {background-color: #99FFD6;}
+
+iframe{ 
+   display:block;
+   margin:0 auto;
+}
