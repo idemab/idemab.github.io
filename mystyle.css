@@ -32,6 +32,21 @@ a:link, a:visited {
 a:hover, a:active {
   background-color: #209F6C;
 }
+div.gallery {
+  margin: 5px;
+  border: 1px solid;
+  float: left;
+  width: 180px;
+}
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
 img {
   opacity: 0.5;
 }
