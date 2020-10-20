@@ -45,6 +45,9 @@ div.gallery:hover {
 div.gallery img {
   width: 300px;
   height: auto;
+}
+
+div.gallery img {
   opacity: 0.5;
 }
 
