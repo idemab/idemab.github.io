@@ -45,13 +45,10 @@ div.gallery:hover {
 div.gallery img {
   width: 300px;
   height: auto;
-}
-
-img {
   opacity: 0.5;
 }
 
-img:hover {
+div.gallery img:hover {
   opacity: 1.0;
 }
 
