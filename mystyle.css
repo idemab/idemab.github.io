@@ -6,6 +6,7 @@ h1{
   color:#fff;
   font-size:3em;
   text-align:center;
+  letter-spacing:3px;
 }
 p.fancy{
   color:#666;
@@ -14,6 +15,12 @@ p.fancy{
 p.fancy::first-letter {
   color: #209F6C;
   font-size: xx-large;
+}
+p.mini{
+  color:#666;
+  font-style:italic;
+  font-weight:lighter;
+  font-size:0.875em;
 }
 ul.nav li{
   display:inline;
@@ -83,4 +90,7 @@ tr:hover {background-color: #99FFD6;}
 iframe{ 
    display:block;
    margin:0 auto;
+}
+div.a {
+  text-indent: 30px;
 }
