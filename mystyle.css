@@ -29,6 +29,13 @@ p.mini{
   font-weight:lighter;
   font-size:0.875em;
 }
+.serif {
+  font-family:"Times New Roman", serif;
+}
+ol{
+ font-family:"times new roman";
+   color:#666
+}
 ul.nav li{
   display:inline;
   padding:10px;
