@@ -32,6 +32,9 @@ p.mini{
 .serif {
   font-family:"Times New Roman", serif;
 }
+p{
+  color:#666;
+}
 ol{
  font-family:"times new roman";
    color:#136041;
