@@ -11,7 +11,7 @@ h1{
 h2{
   color:#136041;
   font-size:2em;
-  text-align:center;
+  font-variant:small-caps;
   letter-spacing:2px;
 }
 p.fancy{
