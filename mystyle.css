@@ -28,6 +28,7 @@ p.mini{
   font-style:italic;
   font-weight:lighter;
   font-size:0.875em;
+  text-align:center;
 }
 .serif {
   font-family:"Times New Roman", serif;
@@ -112,8 +113,4 @@ table.center{
 iframe{ 
    display:block;
    margin:0 auto;
-}
-div.a {
-  text-align:right;
-  text-indent: 30px;
 }
