@@ -104,6 +104,11 @@ th {
 
 tr:hover {background-color: #99FFD6;}
 
+table.center{
+  margin-left:auto;
+  margin-right:auto;
+}
+
 iframe{ 
    display:block;
    margin:0 auto;
