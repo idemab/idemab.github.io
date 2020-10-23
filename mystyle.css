@@ -83,7 +83,6 @@ div.gallery img:hover {
 table {
   border-collapse: collapse;
   width: 50%;
-  align-items: center;
 }
 
 th, td {
